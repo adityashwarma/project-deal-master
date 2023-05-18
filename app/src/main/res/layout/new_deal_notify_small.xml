@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?colorPrimary"
+    android:gravity="center_horizontal"
+    android:theme="@style/Theme.DealRunner"
+    tools:context=".MainActivity"
+    android:id="@+id/login_fragment">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="80dp"
+        android:layout_height="65dp"
+        android:contentDescription="@string/logo"
+        android:src="@drawable/ic_logo" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/imageView1"
+        android:layout_marginStart="10dp"
+        android:fontFamily="@font/suezone_regular"
+        android:text="@string/notification_title"
+        android:textAllCaps="false"
+        android:layout_marginTop="10dp"
+        android:textColor="?colorOnPrimary"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/imageView1"
+        android:layout_marginStart="10dp"
+        android:layout_below="@id/textView1"
+        android:fontFamily="@font/suezone_regular"
+        android:text="@string/notification_description"
+        android:textAllCaps="false"
+        android:layout_marginTop="10dp"
+        android:textColor="?colorOnPrimary"
+        android:textSize="15sp" />
+
+</RelativeLayout>

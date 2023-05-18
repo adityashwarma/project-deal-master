@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446163047118",
+    "project_id": "deal-runner",
+    "storage_bucket": "deal-runner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446163047118:android:7d4fadd8f2664101b6f69f",
+        "android_client_info": {
+          "package_name": "com.example.dealrunner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446163047118-5g685jvdhmr1gb89dsbe8bv2g1d7fq2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVmc6Itl3znSYuHt_CxEEo_JVcLCKzbrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446163047118-5g685jvdhmr1gb89dsbe8bv2g1d7fq2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

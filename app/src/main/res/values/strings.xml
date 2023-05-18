@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">DealRunner</string>
+    <string name="logo">Logo</string>
+
+    <!-- login -->
+    <string name="hint_username">Email or phone number</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Log in</string>
+    <string name="business_login">Log in</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="sign_up">No Account?<u>Sign-up</u></string>
+    <string name="subtitle"><i>Quick Deals</i></string>
+
+    <!-- Signup -->
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="t_and_c">By signing up you agree to our Terms and Conditions</string>
+    <string name="b_t_and_c">By signing up you agree to our Terms and Conditions</string>
+    <string name="existing_account">Already have an account?</string>
+    <string name="business_existing_account">Already have an account?</string>
+    <string name="button_text_singup">Signup</string>
+    <string name="error_first_name">Invalid First Name</string>
+    <string name="error_last_name">Invalid Last Name</string>
+    <string name="error_email">Invalid Email</string>
+    <string name="error_password">Password must be 8 characters</string>
+    <string name="error_confirm_password">Passwords do not match</string>
+    <string name="business_province">Province</string>
+    <string name="button_text_continue">Continue</string>
+    <string name="business_name">Business Name</string>
+    <string name="business_address">Business Address</string>
+    <string name="floor_suite">Floor/Suite (Optional)</string>
+    <string name="business_phone_number">Phone Number</string>
+    <string name="business_email">Email Address</string>
+    <string name="business_password">Password</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="business_confirm_password">Confirm Password</string>
+    <string name="button_insert_image">Insert An Image</string>
+    <string name="deal_name">Pizza Pizza pizza Pizza</string>
+    <string name="discount_first">70% discount on any two topping piazza.</string>
+    <string name="discount_second">80% discount on one topping piazza.</string>
+    <string name="expire">Deal Expired</string>
+    <string name="deal_nearby">Deals Near</string>
+    <string name="customer_address">130 Columbia Street West</string>
+    <string name="business_type">Select Business Type</string>
+    <string name="pass_require">Password is Required</string>
+    <string name="pass_res_dialog">Password Reset</string>
+    <string name="enter_res_email">Enter your registered email to receive reset link</string>
+
+    <string-array name="business_types">
+        <item>Select Type of Business</item>
+        <item>Food</item>
+        <item>Movies</item>
+        <item>Cloths</item>
+        <item>Accessories</item>
+    </string-array>
+    <!-- Deal -->
+    <string name="deal_address">address</string>
+    <string name="deal_business_name">businessName</string>
+    <string name="deal_category">category</string>
+    <string name="deal_id">dealID</string>
+    <string name="deal_description">description</string>
+    <string name="deal_discount">discount</string>
+    <string name="deal_email">email</string>
+    <string name="deal_expiry">expiry</string>
+    <string name="deal_latitude">latitude</string>
+    <string name="deal_longitude">longitude</string>
+    <string name="deal_phone">phone</string>
+    <string name="deal_title">title</string>
+    <string name="deal_push">PUSH</string>
+    <!-- Decision -->
+    <string name="i_want_to"><i>I want to ...</i></string>
+    <string name="grab_deals"><u><i>Grab deals</i></u></string>
+    <string name="post_deals"><u><i>Post deals</i></u></string>
+    <string name="already_have_an_account">Already have an account? <u>Log In</u></string>
+    <string name="location_permission_denied">Location permission needed to show nearby results</string>
+    <!-- Notification -->
+    <string name="channel_id">Deal Runner Notification</string>
+    <string name="channel_name">Deal Runner</string>
+    <string name="channel_description">Deal Runner description</string>
+    <string name="notification_title">New deal near you!</string>
+    <string name="notification_description">Tap here to grab!</string>
+
+    <!-- Settings -->
+    <string name="display_full_name">Name:</string>
+    <string name="display_email">Email Address:</string>
+    <string name="display_username">Username:</string>
+    <string name="log_out">Log Out</string>
+    <string name="account_info"><i>Account Information</i></string>
+    <string name="location_preferences"><i>Location Preferences</i></string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="deal_desc">100% off everything for everyone</string>
+    <string name="title_activity_deal_page">DealPage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
